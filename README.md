@@ -121,3 +121,7 @@ adb -s 6O5614A19926 install ~/Desktop/mobile-release.apk
 ```
 的指令把包装入手表（当然6O5614A19926你应该替换成你手表device的代码），再在ticwear助手点击右上角的按钮，点击“应用同步”。因为mobile-release.apk相当于是手机应用与手表应用的打包，所以手表的应用也会被拷贝到手表上！
 详情参考[这里](http://developer.chumenwenwen.com/v2/doc/ticwear/gms-compat)的“打包、兼容、以及各类概念的解释”。
+
+###### 2016 Ren Lu © All Rights Reserved.
+######License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
+
